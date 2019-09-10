@@ -41,7 +41,7 @@ tags:
 
 
 
-如图![104](D:\document\md\es汇总\104.jpg)
+如图![104](https://github.com/nanaonikaikai/nanaonikaikai.github.io/blob/master/img/104.jpg?raw=true)
 
 
 
@@ -97,7 +97,7 @@ type，日化商品type，电器商品type，生鲜商品type
 
 如图：
 
-![105](D:\document\md\es汇总\105.jpg)
+![105](https://github.com/nanaonikaikai/nanaonikaikai.github.io/blob/master/img/105.jpg?raw=true)
 
 
 
