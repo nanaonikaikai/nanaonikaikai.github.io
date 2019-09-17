@@ -35,7 +35,7 @@ tags:
 
 
 
-![107](D:\document\md\es汇总\107.jpg)
+![107](https://github.com/nanaonikaikai/nanaonikaikai.github.io/blob/master/img/107.jpg?raw=true)
 
 
 ### 2、图解单node环境下创建index是什么样子的
@@ -55,4 +55,4 @@ PUT /test_index
 }
 ```
 
-![108](D:\document\md\es汇总\108.jpg)
+![108](https://github.com/nanaonikaikai/nanaonikaikai.github.io/blob/master/img/108.jpg?raw=true)
