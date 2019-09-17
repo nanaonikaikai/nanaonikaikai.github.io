@@ -61,4 +61,4 @@ shard副本，请求路由，集群扩容，shard重分配
 （2）自动请求路由
 （3）响应收集
 
-![106](D:\document\md\es汇总\106.jpg)
+![106](https://github.com/nanaonikaikai/nanaonikaikai.github.io/blob/master/img/106.jpg?raw=true)
