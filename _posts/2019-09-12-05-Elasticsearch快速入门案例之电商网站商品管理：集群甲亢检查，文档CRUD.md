@@ -1,7 +1,7 @@
 ---
 jsonlayout:     post
-title:      05-Elasticsearch快速入门案例之电商网站商品管理：集群甲亢检查，文档CRUD
-subtitle:   快速入门案例之电商网站商品管理：集群甲亢检查，文档CRUD
+title:      05-Elasticsearch快速入门案例之电商网站商品管理：集群健康检查，文档CRUD
+subtitle:   快速入门案例之电商网站商品管理：集群健康检查，文档CRUD
 date:       2019-09-12
 author:     yukai.bai
 header-img: img/post-bg-kuaidi.jpg
